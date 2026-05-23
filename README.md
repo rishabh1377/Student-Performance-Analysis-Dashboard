@@ -36,17 +36,6 @@ The dashboard helps in:
 
 ---
 
-# Project Structure
-
-```text
-Student-Performance-Analysis-Dashboard/
-│
-├── Student_Performance_Analysis_Dashboard.xlsx
-├── dashboard_screenshot.png
-└── README.md
-```
-
----
 
 # Key Insights
 
@@ -56,6 +45,3 @@ Student-Performance-Analysis-Dashboard/
 
 
 
-# Interview Explanation
-
-This project was created to understand practical data analysis workflows using Excel. The dataset was cleaned and structured before performing analysis using Pivot Tables and charts. The dashboard was designed to visualize attendance trends, academic performance, and student insights in an easy-to-understand format.
